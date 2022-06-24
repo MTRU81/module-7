@@ -1,0 +1,10 @@
+$ python get_urls.py --help
+usage: get_urls.py [-h] [url]
+ 
+Get list of links from a website
+ 
+positional arguments:
+  url         URL
+ 
+optional arguments:
+  -h, --help  show this help message and exit
